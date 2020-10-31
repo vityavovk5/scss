@@ -1,9 +1,8 @@
  
 footer {
-    p {
+    @include sectionFlex(row);
 
-    }
     a {
         color: red;
        }
-}
+    }

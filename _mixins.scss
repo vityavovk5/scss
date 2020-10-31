@@ -1,17 +1,6 @@
-
-
-body {
-color: orange;
-}
- 
 @mixin sectionFlex($flexDirect) {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: $flexDirect;
-    height: 100vh;
  }
- @import "variable";
-  @import "header";
- @import "section";
- @import "footer";

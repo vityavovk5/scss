@@ -1,8 +1,10 @@
 section {
+    @include sectionFlex(column);
     h1 {
 
     }
     p {
+        @extend form;
         font-family: $basicFont;
     }
     form {
