@@ -15,11 +15,11 @@ header {
 }
 
 header h1 {
-  color: #df33df;
+  color: #291291;
 }
 
 header h1:hover {
-  color: #18ad68;
+  color: #df33df;
 }
 
 header h1::after {
@@ -27,23 +27,23 @@ header h1::after {
 }
 
 header p {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-
-header p {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 section p {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 section form {
-  border: 3px solid #df33df;
+  border: 3px solid #291291;
 }
 
 section button {
   border: 3px solid #df33df;
+}
+
+footer a {
+  color: red;
 }
 
 footer a {
